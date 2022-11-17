@@ -41,21 +41,26 @@ Use the following checklist to ensure that you have completed all of the tasks.
 - [ ] You'll submit an output file of your choice, the RMD, and a link to your GitHub Repo.
 - [ ] Update this README file to check off all elements you have completed by placing an x in side the square brackets: [x] 
 
-## Learning Outcomes Assessed
-+ Code.1: The student will learn to generate documentation for their code that not only they, but others can use to help make sense of the code.
-+ Code.2: The student will learn to organize their code to assist with the code’s readability.
-+ Code.3: The student will learn to implement a coding style for their code.
-+ Prog.3: The student will learn to apply the core programming principles to their work.
-+ Prog.5: The student will learn to plan their functions and code out in advance of writing syntax.
-+ Prog.6: The student will learn to write their own code to engage in data analysis.
-+ Prog.7: The student will learn to write their own functions in order to achieve their goals.
-+ DA.1: The student will learn to import files into R from a variety of sources and file types.
-+ DA.4: The student will learn to create data visualizations that support data analysis.
-+ DA.5: The student will learn to generate descriptive statistics to support data analysis.
-+ DA.6: The student will learn to prepare a report that details their data analysis.
-+ Collab.1: The student will learn to implement version control as a means of creating reproducible work.
-+ Collab.2: The student will learn to work collaboratively with other individuals on projects.
-+ Collab.3: The student will learn to provide assistance to others without resorting to sharing answers.
-+ CompThink.1: The student will learn to incorporate statistical software (R) into their thinking.
-+ CompThink.2: The student will learn to use statistical software to solve problems.
-+ CompThink.3: The student will learn to draw upon the idea that there is no one “correct” way to program.
+## Learning Objectives and Outcomes Assessed
++ Code: Students will develop their ability to create reproducible code that others can understand.
+  + Code.1: The student will learn to generate documentation for their code that not only they, but others can use to help make sense of the code.
+  + Code.2: The student will learn to organize their code to assist with the code’s readability.
+  + Code.3: The student will learn to implement a coding style for their code.
++ Prog: Students will develop their skills in programming with statistical software.
+  + Prog.3: The student will learn to apply the core programming principles to their work.
+  + Prog.5: The student will learn to plan their functions and code out in advance of writing syntax.
+  + Prog.6: The student will learn to write their own code to engage in data analysis.
+  + Prog.7: The student will learn to write their own functions in order to achieve their goals.
++ DA: Students will develop their skills in using statistical software to engage in data analysis.
+  + DA.1: The student will learn to import files into R from a variety of sources and file types.
+  + DA.4: The student will learn to create data visualizations that support data analysis.
+  + DA.5: The student will learn to generate descriptive statistics to support data analysis.
+  + DA.6: The student will learn to prepare a report that details their data analysis.
++ Collab: Students will develop their skills in collaborative programming.
+  + Collab.1: The student will learn to implement version control as a means of creating reproducible work.
+  + Collab.2: The student will learn to work collaboratively with other individuals on projects.
+  + Collab.3: The student will learn to provide assistance to others without resorting to sharing answers.
++ CompThink: Students will develop ways of thinking which make use of computing power.
+  + CompThink.1: The student will learn to incorporate statistical software (R) into their thinking.
+  + CompThink.2: The student will learn to use statistical software to solve problems.
+  + CompThink.3: The student will learn to draw upon the idea that there is no one “correct” way to program.
