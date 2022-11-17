@@ -15,7 +15,7 @@ Use the following checklist to ensure that you have completed all of the tasks.
 - [ ] Create a repo using this repo as the template. Name your repo "FP_Name1_Name2_Name3" where Name# are the team member's names.
 - [ ] Make sure that each team member has access to the repo.
 - [ ] Come up with a topic and set of research questions your team will explore.
-- [ ] Make a plan for your work.
+- [ ] Make a plan for your work. (Target Completion: Friday, Nov. 18, 2022)
 - [ ] Locate appropriate data sources for your project.
   - [ ] Your main data source may __not__ be one that we used in class nor be found in any R package.
   - [ ] Supplementary data sources may come from anywhere.
@@ -38,7 +38,9 @@ Use the following checklist to ensure that you have completed all of the tasks.
   - [ ] __Optional:__ For those who want to challenge themselves further, feel free to include a section on using other statistical methods such as hypothesis testing, regression, ANOVA, or machine learning--see Chapter 18 of the Data Computing eBook.
 - [ ] Use GitHub to share changes and edits; there should be multiple commits to your repo and at least 2 by each team member. You'll need to give Neil (neilhatfield) access to your repo.
 - [ ] __Optional:__ Your group may also wish to use `trackdown`
-- [ ] You'll submit an output file of your choice, the RMD, and a link to your GitHub Repo.
+- [ ] You'll submit an output file of your choice, the RMD, and a link to your GitHub Repo to the appropriate submission portal in Canvas.
+- [ ] During the last week of classes (Dec. 7th and Dec. 9th), your group will need to share a short presentation 3-5 minutes of what you've investigated and learned.
+- [ ] Each member of the team needs to complete Peer/Self Evaluations using the included Evaluation template and upload the knitted PDF to the appropriate submission portal in Canvas.
 - [ ] Update this README file to check off all elements you have completed by placing an x in side the square brackets: [x] 
 
 ## Learning Objectives and Outcomes Assessed
@@ -64,3 +66,22 @@ Use the following checklist to ensure that you have completed all of the tasks.
   + CompThink.1: The student will learn to incorporate statistical software (R) into their thinking.
   + CompThink.2: The student will learn to use statistical software to solve problems.
   + CompThink.3: The student will learn to draw upon the idea that there is no one “correct” way to program.
+
+## FAQs
++ __Where can we get ideas for good data sources?__
+  - Kaggle, Tidy Tuesday, and other outlets post lots of data analysis examples--if any group submits a project that looks too similar to work done by someone else it would be an academic integrity violation.  
+  - https://www.data.gov/ --home of US government open data initiative.  Similarly, many states & communities have their own open data websites as well if you search the Internet
+  - https://www.kaggle.com/datasets --Kaggle has tons of data sets freely available on a wide range of topics
+  - https://github.com/fivethirtyeight/data --FiveThirtyEight (https://fivethirtyeight.com/) is a media outlet known for doing some excellent data analysis in many of their articles and stories.  Much of their data is shared in a GitHub Repo
+  - https://github.com/nytimes --New York Times GitHub Repo with supporting data from many stories they have published
+  - https://github.com/rfordatascience/tidytuesday --Your primary data set must NOT come from an R package.  You can usually download a CSV of the data hosted by Tidy Tuesday (if needed for your primary--they give you the `read_csv` code) or you can use their R package directly for a secondary source.
+  - Neil also has some data files you might be able to use
++ __What does a good example of the Final Project look like?__
+  - Check out the various projects listed at the end of the Data Computing eBook as well as the example report. Those as well as the activities, especially towards the later parts of the course can help give you a sense of the scope for this project.  
++ __Can I use Python (or another language)?__
+  - STAT 184 is an R programming course, and the project is intended to evaluate learning objectives of this course so you should mostly be using R and your entire analysis must be self-contained in a single R Notebook.  However, if you want to do something in the project that we have not learned about in class (using R) and prefer to use Python or some other language for that purpose it's fine to include some Python chunks in your R Notebook.
++ __We're really stuck on what to do. Help?__
+  - What shared interests does your team have? Do you all like a particular sport? Do you like a particular type of music? Do you like to play video games?
+  - For groups who are really stuck, I have a variety of data sets that teams can use.
+    - Ever wondered if double stuf Oreos(R) actually have twice the amount of créme filling as regular Oreos(R)? Me too. Hence, I had a group of students investigate this research question and actually collect data. (I have ~7 such data sets available.)
+    - Does the type (thin, regular, double, mega, most) and flavor (regular, mint, lemon, dark chocolate) impact the amount of créme filling and/or the ratio of créme filling mass to wafer mass? (I have 1 data set available.)
