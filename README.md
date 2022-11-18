@@ -1,7 +1,5 @@
 # Stat 184-Hatfield (Fall 2022) Final Project
 
-Demonstrate an issue
-
 This repo will serve as the template file for the course project. Further, this README file will contain the project specifications (details), check points, and the list of learning outcomes being assessed. Be sure to read through all portions of the README carefully.
 
 ## Project Purpose
